@@ -24,8 +24,8 @@ The user can also quit using 'Q' or 'q' to end the simulation.
 
 To run the program: 
 
-    1. First compile GameofLife.java in terminal
-    2. Then run GameofLife.java in terminal 
+    1. First compile GameofLife.java in terminal 
+    2. Then run GameofLife.java to start simulation 
     3. The program will ask for input (ProsperousBiosphere or Biosphere rules) 
     4. The program will ask for name of the input file (ex. prosperous.txt)
     5. Any key can be hit to continue the turn or user can quit by hitting 'Q' or 'q'
