@@ -19,7 +19,8 @@ Different Rules:
     -Deaths occur if there is fewer than one neighbour or more than four neighbours 
     -Births occur if there are exactly 4 neighbours
     
-The user can enter 'P' or 'p' (regardless of the input file chosen by the user) to apply the rules of the ProsperousBiosphere. An 'R' or an 'r' will apply the rules of the regular biosphere.
+The user can enter 'P' or 'p' (regardless of the input file chosen by the user) to apply the rules of the ProsperousBiosphere. 
+An 'R' or an 'r' will apply the rules of the regular biosphere.
 The user can also quit using 'Q' or 'q' to end the simulation. 
 
 To play the game: 
