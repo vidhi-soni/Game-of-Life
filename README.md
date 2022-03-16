@@ -14,7 +14,7 @@ Rules:
 The starting data from the file will be read in from a text file (input files) and the simulation will run on a turn-by-turn basis. There is also a taminator class (shown as a T in grid), where the taminator can't die or be born. 
 The Biosphere will follow the orginal rules of the games, while the Prosperous Biosphere will follow different rules. 
 
-Different Rules: 
+ Rules for Prosperous Biosphere: 
 
     -Deaths occur if there is fewer than one neighbour or more than four neighbours 
     -Births occur if there are exactly 4 neighbours
